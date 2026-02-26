@@ -1,20 +1,20 @@
 # escenario-blender-pythonn
 Generador de escenario 3D en Blender utilizando Python (bpy). El script crea automáticamente un pasillo con tramo recto y sección curva, aplica materiales con colores RGB, agrega iluminación y anima una cámara que recorre la escena mediante una trayectoria programada.
-# 🎬 Generador de Escenario en Blender con Python
+#  Generador de Escenario en Blender con Python
 
 Este proyecto consiste en la creación automática de un escenario 3D utilizando Python dentro de Blender.  
 El script genera un pasillo recto con una sección curva, aplica materiales con colores definidos, agrega iluminación y anima una cámara que recorre el escenario.
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Blender
 - Python (API bpy)
 
 ---
 
-## 🎨 Características del proyecto
+##  Características del proyecto
 
 ✔ Generación automática de paredes  
 ✔ Tramo recto y tramo curvo  
@@ -25,7 +25,7 @@ El script genera un pasillo recto con una sección curva, aplica materiales con 
 
 ---
 
-## 📌 Estructura del Escenario
+##  Estructura del Escenario
 
 El script realiza los siguientes pasos:
 
@@ -39,7 +39,7 @@ El script realiza los siguientes pasos:
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Abrir Blender.
 2. Ir a la pestaña **Scripting**.
@@ -50,13 +50,13 @@ El script realiza los siguientes pasos:
 
 ---
 
-## 🎥 Resultado
+## Resultado
 
 La cámara realiza un recorrido dinámico por el pasillo, mostrando la estructura recta y la sección curva, con iluminación aplicada y materiales visibles en modo Render.
 
 ---
 
-## 📚 Objetivo Académico
+## Objetivo Académico
 
 Este proyecto demuestra el uso de:
 
@@ -67,7 +67,7 @@ Este proyecto demuestra el uso de:
 - Uso de constraints (Follow Path, Track To)
 - Animación mediante keyframes
 - 
-  PROGRAMA
+ ## PROGRAMA
 import bpy
 import math
 
@@ -224,7 +224,8 @@ def generar_escenario():
 
 generar_escenario()
 ---
+![WhatsApp Image 2026-02-25 at 23 10 04](https://github.com/user-attachments/assets/174b1e19-f031-4181-a799-338fe3139a76)
 
-## 👩‍💻 Autor
+## Autor
 
 Wendy Sánchez
